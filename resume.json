@@ -1,0 +1,143 @@
+{
+    "basics": {
+        "name": "Abhishek Panwar",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1046@iiitkota.ac.in",
+        "phone": "+916396165739",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), pursuing my B.tech in Computer Science & engineering. Coding is my passion",
+        "location": {
+            "address": "Chamoli",
+            "postalCode": "246401",
+            "city": "Gopeshwar",
+            "countryCode": " India",
+            "region": "Uttarakhand"
+        },
+        "profiles": [
+            
+            {
+                "network": "Github",
+                "username": "Abhithcoder",
+                "url": "https://github.com/Abhithcoder"
+            },
+            {
+                "network": "linkedin",
+                "username": "Abhishek Panwar",
+                "url": "https://www.linkedin.com/in/abhishek-panwar-27943122b/"
+            },
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "C/C++",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Music"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Table Tennis",
+                "Badminton"
+            ]
+        }
+    ]
+}
