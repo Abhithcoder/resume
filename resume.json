@@ -121,8 +121,11 @@
     ],
     "languages": [
         {
+            "language": "Hindi",
+            "fluency": "Native speaker",
+            
             "language": "English",
-            "fluency": "Native speaker"
+            "fluency": "Secondary"
         }
     ],
     "interests": [
